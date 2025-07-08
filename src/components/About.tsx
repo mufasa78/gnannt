@@ -24,8 +24,8 @@ const About = () => {
         {/* Hero Section */}
         <div className="text-center mb-12 sm:mb-16 animate-on-mount opacity-0">
           <div className="w-32 h-32 sm:w-40 sm:h-40 mx-auto mb-6 sm:mb-8 rounded-full overflow-hidden shadow-2xl transition-transform duration-500 hover:scale-105">
-            <img 
-              src="https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=400" 
+            <img
+              src="/philippe-gnannt.jpg"
               alt="Philippe Gnannt"
               className="w-full h-full object-cover"
             />
